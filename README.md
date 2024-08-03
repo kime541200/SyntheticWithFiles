@@ -1,5 +1,3 @@
-# SyntheticWithFiles
-
 <div align="center">
     <img src=./imgs/banner.webp height=40% />
 </div>
@@ -7,7 +5,9 @@
 講述如何使用LLM來產生「基於特定文件」的合成資料集✨️
 
 ## Table of content
+- [Table of content](#table-of-content)
 - [Background](#background)
+- [Pre-requirement](#pre-requirement)
 
 ## Background
 - 合成資料？📃  
