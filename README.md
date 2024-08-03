@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=./imgs/banner.webp height=40% />
+    <img src=./imgs/banner.webp height=20% />
 </div>
 
 講述如何使用LLM來產生「基於特定文件」的合成資料集✨️
